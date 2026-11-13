@@ -9,7 +9,7 @@ text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fil
 <rect x="0.5" y="0.5" width="879" height="359" rx="14" fill="#0d1117" stroke="#30363d"/>
 <text class="ttl" x="32" y="42">cheree-agent-worker</text>
 <text class="mut" x="848" y="42" text-anchor="end">updated 2026-11-13</text>
-<g transform="translate(32,84)"><text class="mut" y="0">Chats</text><text class="big" y="44">564</text><text class="mut s" y="68">+20 last week</text></g><g transform="translate(240,84)"><text class="mut" y="0">Tokens (input + output)</text><text class="big" y="44">71.6M</text><text class="mut s" y="68">+5.3M last week</text></g><g transform="translate(448,84)"><text class="mut" y="0">Cached tokens</text><text class="big" y="44">8.9B</text><text class="mut s" y="68">reads + writes</text></g><g transform="translate(656,84)"><text class="mut" y="0">GitHub contributions</text><text class="big" y="44">2</text><text class="mut s" y="68">+0 last week</text></g>
+<g transform="translate(32,84)"><text class="mut" y="0">Chats</text><text class="big" y="44">564</text><text class="mut s" y="68">+20 last week</text></g><g transform="translate(240,84)"><text class="mut" y="0">Tokens (input + output)</text><text class="big" y="44">71.6M</text><text class="mut s" y="68">+5.3M last week</text></g><g transform="translate(448,84)"><text class="mut" y="0">Cached tokens</text><text class="big" y="44">8.9B</text><text class="mut s" y="68">reads + writes</text></g><g transform="translate(656,84)"><text class="mut" y="0">GitHub contributions</text><text class="big" y="44">3</text><text class="mut s" y="68">+0 last week</text></g>
 <text class="mut" x="32" y="200">Fresh tokens per week, last 12 weeks (current week in yellow)</text>
 <rect x="32.0" y="301.1" width="60.7" height="22.9" rx="3" fill="#5eead4" opacity="0.85"/>
 <rect x="100.7" y="310.9" width="60.7" height="13.1" rx="3" fill="#5eead4" opacity="0.85"/>
@@ -27,6 +27,6 @@ text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fil
 <rect x="650.0" y="288.5" width="60.7" height="35.5" rx="3" fill="#5eead4" opacity="0.85"/>
 <text x="680.3" y="342.0" text-anchor="middle" class="mut s">Oct 26</text>
 <rect x="718.7" y="292.3" width="60.7" height="31.7" rx="3" fill="#5eead4" opacity="0.85"/>
-<rect x="787.3" y="311.4" width="60.7" height="12.6" rx="3" fill="#ffd24d" opacity="1"/>
+<rect x="787.3" y="311.3" width="60.7" height="12.7" rx="3" fill="#ffd24d" opacity="1"/>
 <text x="817.7" y="342.0" text-anchor="middle" class="mut s">Nov 9</text>
 </svg>
