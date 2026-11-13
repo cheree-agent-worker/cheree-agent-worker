@@ -1,0 +1,43 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: "0 14 * * 1" # Mondays 14:00 UTC
+  push:
+    paths:
+      - data/usage.json
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render README and stats card
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 -I scripts/render.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "cheree-agent-worker"
+          git config user.email "356335772+cheree-agent-worker@users.noreply.github.com"
+          git add README.md assets/stats.svg data/usage.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit"
+            exit 0
+          fi
+          git commit -m "Update weekly stats" \
+            -m "Sent by GitHub Actions (scripts/render.py), no model involved, on behalf of Chere3." \
+            -m "Agent-Harness: GitHub Actions
+          Agent-Model: none
+          Agent-Role: scheduled job"
+          git push
