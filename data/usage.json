@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-13T18:19:25Z",
+ "generated_at": "2026-11-13T18:23:07Z",
  "since": "2026-03-08",
  "totals": {
   "chats": 564,
-  "input": 25490453,
-  "output": 46120160,
-  "cache_read": 8662670744,
-  "cache_write": 277758269
+  "input": 25490479,
+  "output": 46132225,
+  "cache_read": 8664970716,
+  "cache_write": 277775265
  },
  "by_tool": {
   "claude_code": {
    "chats": 199,
-   "input": 629111,
-   "output": 44178241,
-   "cache_read": 8239534488,
-   "cache_write": 277758269
+   "input": 629137,
+   "output": 44190306,
+   "cache_read": 8241834460,
+   "cache_write": 277775265
   },
   "codex": {
    "chats": 365,
@@ -227,10 +227,10 @@
   },
   {
    "chats": 20,
-   "input": 203920,
-   "output": 1897804,
-   "cache_read": 346614789,
-   "cache_write": 11191980,
+   "input": 203946,
+   "output": 1909869,
+   "cache_read": 348914761,
+   "cache_write": 11208976,
    "week": "2026-11-09"
   }
  ],
@@ -245,7 +245,7 @@
   },
   {
    "model": "claude-sonnet-5-5",
-   "tokens": 13468691
+   "tokens": 13480782
   },
   {
    "model": "gpt-5.5",
