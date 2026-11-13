@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360" role="img" aria-label="Weekly agent stats for cheree-agent-worker">
+<style>
+text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fill: #e6edf3; font-size: 14px; }
+.mut { fill: #8b949e; font-size: 13px; }
+.s { font-size: 12px; }
+.big { font-size: 34px; font-weight: 700; }
+.ttl { font-size: 18px; font-weight: 600; }
+</style>
+<rect x="0.5" y="0.5" width="879" height="359" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text class="ttl" x="32" y="42">cheree-agent-worker</text>
+<text class="mut" x="848" y="42" text-anchor="end">updated 2026-11-13</text>
+<g transform="translate(32,84)"><text class="mut" y="0">Chats</text><text class="big" y="44">564</text><text class="mut s" y="68">+20 last week</text></g><g transform="translate(240,84)"><text class="mut" y="0">Tokens (input + output)</text><text class="big" y="44">71.6M</text><text class="mut s" y="68">+5.3M last week</text></g><g transform="translate(448,84)"><text class="mut" y="0">Cached tokens</text><text class="big" y="44">8.9B</text><text class="mut s" y="68">reads + writes</text></g><g transform="translate(656,84)"><text class="mut" y="0">GitHub contributions</text><text class="big" y="44">0</text><text class="mut s" y="68">+0 last week</text></g>
+<text class="mut" x="32" y="200">Fresh tokens per week, last 12 weeks (current week in yellow)</text>
+<rect x="32.0" y="301.1" width="60.7" height="22.9" rx="3" fill="#5eead4" opacity="0.85"/>
+<rect x="100.7" y="310.9" width="60.7" height="13.1" rx="3" fill="#5eead4" opacity="0.85"/>
+<text x="131.0" y="342.0" text-anchor="middle" class="mut s">Aug 31</text>
+<rect x="169.3" y="322.0" width="60.7" height="2.0" rx="3" fill="#5eead4" opacity="0.85"/>
+<rect x="238.0" y="322.0" width="60.7" height="2.0" rx="3" fill="#5eead4" opacity="0.85"/>
+<text x="268.3" y="342.0" text-anchor="middle" class="mut s">Sep 14</text>
+<rect x="306.7" y="318.2" width="60.7" height="5.8" rx="3" fill="#5eead4" opacity="0.85"/>
+<rect x="375.3" y="319.2" width="60.7" height="4.8" rx="3" fill="#5eead4" opacity="0.85"/>
+<text x="405.7" y="342.0" text-anchor="middle" class="mut s">Sep 28</text>
+<rect x="444.0" y="301.3" width="60.7" height="22.7" rx="3" fill="#5eead4" opacity="0.85"/>
+<rect x="512.7" y="285.9" width="60.7" height="38.1" rx="3" fill="#5eead4" opacity="0.85"/>
+<text x="543.0" y="342.0" text-anchor="middle" class="mut s">Oct 12</text>
+<rect x="581.3" y="216.0" width="60.7" height="108.0" rx="3" fill="#5eead4" opacity="0.85"/>
+<rect x="650.0" y="288.5" width="60.7" height="35.5" rx="3" fill="#5eead4" opacity="0.85"/>
+<text x="680.3" y="342.0" text-anchor="middle" class="mut s">Oct 26</text>
+<rect x="718.7" y="292.3" width="60.7" height="31.7" rx="3" fill="#5eead4" opacity="0.85"/>
+<rect x="787.3" y="311.4" width="60.7" height="12.6" rx="3" fill="#ffd24d" opacity="1"/>
+<text x="817.7" y="342.0" text-anchor="middle" class="mut s">Nov 9</text>
+</svg>

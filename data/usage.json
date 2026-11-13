@@ -1,0 +1,259 @@
+{
+ "generated_at": "2026-11-13T18:19:25Z",
+ "since": "2026-03-08",
+ "totals": {
+  "chats": 564,
+  "input": 25490453,
+  "output": 46120160,
+  "cache_read": 8662670744,
+  "cache_write": 277758269
+ },
+ "by_tool": {
+  "claude_code": {
+   "chats": 199,
+   "input": 629111,
+   "output": 44178241,
+   "cache_read": 8239534488,
+   "cache_write": 277758269
+  },
+  "codex": {
+   "chats": 365,
+   "input": 24861342,
+   "output": 1941919,
+   "cache_read": 423136256,
+   "cache_write": 0
+  }
+ },
+ "weekly": [
+  {
+   "chats": 0,
+   "input": 0,
+   "output": 0,
+   "cache_read": 0,
+   "cache_write": 0,
+   "week": "2026-05-18"
+  },
+  {
+   "chats": 0,
+   "input": 0,
+   "output": 0,
+   "cache_read": 0,
+   "cache_write": 0,
+   "week": "2026-05-25"
+  },
+  {
+   "chats": 0,
+   "input": 0,
+   "output": 0,
+   "cache_read": 0,
+   "cache_write": 0,
+   "week": "2026-06-01"
+  },
+  {
+   "chats": 0,
+   "input": 0,
+   "output": 0,
+   "cache_read": 0,
+   "cache_write": 0,
+   "week": "2026-06-08"
+  },
+  {
+   "chats": 11,
+   "input": 1879448,
+   "output": 775986,
+   "cache_read": 51812342,
+   "cache_write": 3965755,
+   "week": "2026-06-15"
+  },
+  {
+   "chats": 1,
+   "input": 44355,
+   "output": 440647,
+   "cache_read": 165606758,
+   "cache_write": 2669486,
+   "week": "2026-06-22"
+  },
+  {
+   "chats": 3,
+   "input": 1534381,
+   "output": 178018,
+   "cache_read": 34743635,
+   "cache_write": 7263015,
+   "week": "2026-06-29"
+  },
+  {
+   "chats": 0,
+   "input": 0,
+   "output": 0,
+   "cache_read": 0,
+   "cache_write": 0,
+   "week": "2026-07-06"
+  },
+  {
+   "chats": 4,
+   "input": 2873995,
+   "output": 180094,
+   "cache_read": 37010432,
+   "cache_write": 0,
+   "week": "2026-07-13"
+  },
+  {
+   "chats": 4,
+   "input": 2012687,
+   "output": 184739,
+   "cache_read": 38307840,
+   "cache_write": 0,
+   "week": "2026-07-20"
+  },
+  {
+   "chats": 7,
+   "input": 4008889,
+   "output": 322575,
+   "cache_read": 131193088,
+   "cache_write": 0,
+   "week": "2026-07-27"
+  },
+  {
+   "chats": 17,
+   "input": 1078559,
+   "output": 304032,
+   "cache_read": 56040821,
+   "cache_write": 1684334,
+   "week": "2026-08-03"
+  },
+  {
+   "chats": 3,
+   "input": 402013,
+   "output": 315543,
+   "cache_read": 101547997,
+   "cache_write": 1593723,
+   "week": "2026-08-10"
+  },
+  {
+   "chats": 108,
+   "input": 2211804,
+   "output": 133954,
+   "cache_read": 14131712,
+   "cache_write": 0,
+   "week": "2026-08-17"
+  },
+  {
+   "chats": 84,
+   "input": 3569876,
+   "output": 238863,
+   "cache_read": 29454336,
+   "cache_write": 0,
+   "week": "2026-08-24"
+  },
+  {
+   "chats": 71,
+   "input": 1983783,
+   "output": 203137,
+   "cache_read": 39420001,
+   "cache_write": 386167,
+   "week": "2026-08-31"
+  },
+  {
+   "chats": 14,
+   "input": 297597,
+   "output": 7944,
+   "cache_read": 903040,
+   "cache_write": 0,
+   "week": "2026-09-07"
+  },
+  {
+   "chats": 1,
+   "input": 86348,
+   "output": 2884,
+   "cache_read": 553344,
+   "cache_write": 0,
+   "week": "2026-09-14"
+  },
+  {
+   "chats": 14,
+   "input": 673606,
+   "output": 285399,
+   "cache_read": 99756082,
+   "cache_write": 701076,
+   "week": "2026-09-21"
+  },
+  {
+   "chats": 16,
+   "input": 247627,
+   "output": 559769,
+   "cache_read": 116091184,
+   "cache_write": 2433759,
+   "week": "2026-09-28"
+  },
+  {
+   "chats": 32,
+   "input": 9787,
+   "output": 3765373,
+   "cache_read": 1256105987,
+   "cache_write": 15477558,
+   "week": "2026-10-05"
+  },
+  {
+   "chats": 48,
+   "input": 17084,
+   "output": 6328809,
+   "cache_read": 1230096179,
+   "cache_write": 43979411,
+   "week": "2026-10-12"
+  },
+  {
+   "chats": 40,
+   "input": 58941,
+   "output": 17930524,
+   "cache_read": 2927748376,
+   "cache_write": 116358743,
+   "week": "2026-10-19"
+  },
+  {
+   "chats": 30,
+   "input": 53413,
+   "output": 5860243,
+   "cache_read": 895329590,
+   "cache_write": 36531606,
+   "week": "2026-10-26"
+  },
+  {
+   "chats": 20,
+   "input": 11258,
+   "output": 5263256,
+   "cache_read": 842936768,
+   "cache_write": 30661683,
+   "week": "2026-11-02"
+  },
+  {
+   "chats": 20,
+   "input": 203920,
+   "output": 1897804,
+   "cache_read": 346614789,
+   "cache_write": 11191980,
+   "week": "2026-11-09"
+  }
+ ],
+ "top_models": [
+  {
+   "model": "claude-opus-5-5",
+   "tokens": 25322907
+  },
+  {
+   "model": "gpt-5.6-sol",
+   "tokens": 14415640
+  },
+  {
+   "model": "claude-sonnet-5-5",
+   "tokens": 13468691
+  },
+  {
+   "model": "gpt-5.5",
+   "tokens": 5649907
+  },
+  {
+   "model": "gpt-5.6-luna",
+   "tokens": 3385492
+  }
+ ]
+}
